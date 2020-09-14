@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ash/Desktop/Boulder/CSCI/CSCI 2270/duy_ashlyn_project/code/ChainHash/driver.cpp
+iostream
+-
+fstream
+-
+chrono
+-
+ctime
+-
+iomanip
+-
+hash.hpp
+/Users/ash/Desktop/Boulder/CSCI/CSCI 2270/duy_ashlyn_project/code/ChainHash/hash.hpp
+
+/Users/ash/Desktop/Boulder/CSCI/CSCI 2270/duy_ashlyn_project/code/ChainHash/hash.cpp
+hash.hpp
+/Users/ash/Desktop/Boulder/CSCI/CSCI 2270/duy_ashlyn_project/code/ChainHash/hash.hpp
+iostream
+-
+
+/Users/ash/Desktop/Boulder/CSCI/CSCI 2270/duy_ashlyn_project/code/ChainHash/hash.hpp
+

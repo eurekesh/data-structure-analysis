@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ash/Desktop/Boulder/CSCI/CSCI 2270/final/QuadraticHash/QuadraticHash.cpp
+iostream
+-
+QuadraticHash.h
+/Users/ash/Desktop/Boulder/CSCI/CSCI 2270/final/QuadraticHash/QuadraticHash.h
+
+/Users/ash/Desktop/Boulder/CSCI/CSCI 2270/final/QuadraticHash/QuadraticHash.h
+
